@@ -9,7 +9,6 @@ machine learning techniques.
 - Smart job recommendations
 - User authentication (login/signup)
 - Resume upload support (PDF/DOCX)
-- Light/Dark mode UI
 
 ## Tech Stack
 **Frontend:** HTML, CSS, JS, Bootstrap  
@@ -25,3 +24,4 @@ python -m venv env
 source env/bin/activate  # or env\Scripts\activate on Windows
 pip install -r requirements.txt
 python manage.py runserver
+
